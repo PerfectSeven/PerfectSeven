@@ -19,7 +19,7 @@ I love figuring out how things work and bringing ideas to life and this curiosit
 ---
 
 ## 📫 Let’s Connect
-- GitHub: [Your GitHub Link]  
+- GitHub: [https://github.com/PerfectSeven]  
 - LinkedIn: [Your LinkedIn Link]  
 - Portfolio: [Your Portfolio Website]  
  
