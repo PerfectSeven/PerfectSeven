@@ -20,8 +20,8 @@ I love figuring out how things work and bringing ideas to life and this curiosit
 
 ## 📫 Let’s Connect
 - GitHub: [https://github.com/PerfectSeven]  
-- LinkedIn: [Your LinkedIn Link]  
-- Portfolio: [Your Portfolio Website]  
+- LinkedIn: [https://www.linkedin.com/in/crystal-obidike-46a934118/]  
+- Portfolio: [https://perfectseven.github.io/portfolio/]  
  
 ## 🛠️ Tech Stack
 
