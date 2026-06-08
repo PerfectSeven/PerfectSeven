@@ -1,14 +1,13 @@
 # Hi, I'm Crystal 👋  
 
-I'm a **Frontend Developer** and **Data Analyst** with a passion for building solutions and uncovering insights.  
+I'm a **Data Analyst** and **Frontend Developer** with a passion for building solutions and uncovering insights.  
 I love figuring out how things work and bringing ideas to life and this curiosity drives my approach to problem solving in both tech and data.  
 
 ---
 
 ## 👩‍💻 What I Do
-- **Frontend Development** → Building responsive, user-friendly websites and web applications with modern tools and frameworks.  
 - **Data Analysis** → Exploring, cleaning, and visualizing data to find patterns, trends, and actionable insights.  
-
+- **Frontend Development** → Building responsive, user-friendly websites and web applications with modern tools and frameworks.  
 ---
 
 ## 🌱 Currently Learning
